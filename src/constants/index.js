@@ -249,32 +249,15 @@ export const experiences = [
         duration: "Jan 2023 - Present",
         content: [
           {
-            text: "About Technology",
+            text: "Managing a forum.",
             link: "",
           },
         ],
       },
-    ],
-  },
-  {
-    organisation: "Another Website From Aedotris",
-    logo: anotherLogo,
-    link: "https://levinhkhang.tk",
-    positions: [
-      {
-        title: "Portfolio",
-        duration: "Feb 2022 - June 2023",
-        content: [
-          {
-            text: "Please visit it if you are free.",
-            link: "",
-          },
-        ],
-      },
+      
     ],
   },
 ];
-
 
 export const openSourceContributions = [
   {
