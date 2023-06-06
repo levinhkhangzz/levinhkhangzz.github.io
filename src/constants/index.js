@@ -86,10 +86,10 @@ import {
 import { FaPhp } from "react-icons/fa";
 import { DiCss3, DiMsqlServer, DiRuby } from "react-icons/di";
 
-export const resumeLink = "https://drive.google.com/file/d/1wkPu9i_e2uAdHmbqe0hEM9BfBheJfxkT/view?usp=sharing";
-export const repoLink = "https://github.com/mittal-parth/personal-portfolio";
+export const resumeLink = "https://levinhkhang.xyz";
+export const repoLink = "https://github.com/levinhkhangzz";
 
-export const callToAction = "https://github.com/kyletran191";
+export const callToAction = "https://github.com/levinhkhangzz";
 
 export const navLinks = [
   {
@@ -240,12 +240,12 @@ export const skills = [
 
 export const experiences = [
   {
-    organisation: "Kyle Network",
+    organisation: "Aedotris Technology",
     logo: iris,
-    link: "https://kylenetwork.dev",
+    link: "https://levinhkhang.xyz",
     positions: [
       {
-        title: "Admin",
+        title: "Aedotris",
         duration: "Jan 2023 - Present",
         content: [
           {
@@ -280,12 +280,12 @@ export const openSourceContributions = [
 export const projects = [
   {
     id: "project-1",
-    title: "KyleBot",
-    github: "https://github.com/kyletran191/kylebot",
-    link: "https://github.com/kyletran191/kylebot",
+    title: "MacOS Portfolio",
+    github: "https://github.com/levinhkhangzz?tab=repositories",
+    link: "https://github.com/levinhkhangzz?tab=repositories",
     image: chargeswap,
     content:
-      "A discord bot for ddos and attack. This Tool is made for educational purpose only, Author will not be responsible for any misuse of this toolkit!",
+      "A personal information website coded with the MacOS interface.",
     stack: [
       {
         id: "icon-1",
@@ -367,22 +367,22 @@ export const socialMedia = [
   {
     id: "social-media-2",
     icon: AiFillGithub,
-    link: "https://www.github.com/kyletran191",
+    link: "https://www.github.com/levinhkhangzz",
   },
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "mailto:info@tranbaokha.com",
+    link: "mailto:levinhkhang631@gmail.com",
   },
   {
     id: "social-media-4",
     icon: AiFillFacebook,
-    link: "https://www.facebook.com/kyletran.1901",
+    link: "https://www.facebook.com/profile.php?id=100090464610302",
   },
   {
     id: "social-media-5",
     icon: AiFillInstagram,
-    link: "https://www.instagram.com/kyletran.1901",
+    link: "https://www.instagram.com/xkawz.xfr",
   },
 ];
 
@@ -406,7 +406,7 @@ export const clients = [
 ];
 
 export const aboutMe = {
-    name: "Tran Bao Kha",
-    tagLine: "Developer",
-    intro: "A normal developer from Los Angeles, California, USA"
+    name: "Le Vinh Khang",
+    tagLine: "Developer and GraphicsDesign",
+    intro: "A normal Developer & GraphicsDesign from Thu Duc, Ho Chi Minh, Vietnam"
 }
